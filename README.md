@@ -3,8 +3,7 @@ lexitron
 
 Plans, models, firmware associated with RunJumpDev's arcade cabinet, the [Lexitron](http://runjumpdev.org/lexitron).
 
-Microcontrollers
-================
+## Microcontrollers
 
 At launch, the Lexitron used two Arduino-compnatible microcontrollers to drive
 the LEX button and sense coin insertions. The LEX button is a SUZO-HAPP
@@ -27,8 +26,7 @@ a switch and sending keystrokes. It's got a closed-source bootloader, is way
 overpowered for the job, and costs much more than you need to pay for this
 functionality, but it's still cheap and provides peace of mind.
 
-Adafruit Trinket in Windows
-===========================
+## Adafruit Trinket in Windows
 
 Setting up the Arduino IDE for the Trinket in Windows was kind of
 a bear.
