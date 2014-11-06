@@ -5,7 +5,7 @@ Plans, models, firmware associated with RunJumpDev's arcade cabinet, the [Lexitr
 
 ## Microcontrollers
 
-At launch, the Lexitron used two Arduino-compnatible microcontrollers to drive
+At launch, the Lexitron used two Arduino-compatible microcontrollers to drive
 the LEX button and sense coin insertions. The LEX button is a SUZO-HAPP
 [large green illuminated pushbutton](http://na.suzohapp.com/all_catalogs/pushbuttons/D54-0004-13)
 connected to a [Teensy 2.0](http://pjrc.com/store/teensy_pins.html) board that's
